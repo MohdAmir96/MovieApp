@@ -1,0 +1,33 @@
+.movie-details-container {
+  display: flex;
+  flex-direction: inherit;
+  align-items: center;
+  padding: 40px;
+  background-color: #1a1a1a;
+  color: #d1cfcf;
+  height: 88vh;
+  font-family: 'Inter', sans-serif;
+  }
+  h1{
+    padding: 20px;
+  }
+  .movie-details-container .plot{
+    padding-top: 20px;
+  }
+  p{
+    font-size: 18px;
+    padding: 5px 15px;
+  }
+  .movie-poster {
+    width: 300px;
+    height: 450px;
+    margin-bottom: 30px;
+  }
+  
+  .info-section {
+    display: flex;
+    flex-direction: inherit;
+    justify-content: flex-start;
+    padding: 10px;
+  }
+  
